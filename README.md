@@ -9,7 +9,7 @@
 [Resume-Vuejs](https://github.com/mohammadrostamiorg/resume-vuejs)  
 <p> A simple Resume Development By vue</p>
 
-## The tools i use :
+## The tools that I use :
 
 <a href="https://php.net">
     <img align="center" src="https://www.php.net/images/logos/new-php-logo.png" alt="git" height="40" width="40" />
@@ -37,8 +37,20 @@
     <img align="center" src="https://manjaro.org/img/logo.svg" alt="manjaro" height="40" width="40" />
 </a>
 <a href="https://getcomposer.org">
-    <img align="center" src="https://www.seekpng.com/png/full/258-2582840_composer-logo-php-composer.png" alt="manjaro" height="40" width="40" />
+    <img align="center" src="https://www.seekpng.com/png/full/258-2582840_composer-logo-php-composer.png" alt="composer" height="40" width="40" />
 </a>
 <a href="https://regexr.com">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/regex_icon_132036.png" alt="manjaro" height="40" width="40" />
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/regex_icon_132036.png" alt="regex" height="40" width="40" />
+</a>
+
+
+## My social Media's
+<a href="https://lindedin.com/in/mohammadrostamiorg">
+    <img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="linkedin" height="40" width="40" />
+</a>
+<a href="https://t.me/mohammad_rsz">
+    <img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" alt="linkedin" height="40" width="40" />
+</a>
+<a href="https://www.reddit.com/user/mohmmadrostami">
+    <img align="center" src="https://www.freeiconspng.com/uploads/red-reddit-icon-7.png" alt="reddit" height="40" width="40" />
 </a>
