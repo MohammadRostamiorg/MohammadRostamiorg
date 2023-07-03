@@ -21,7 +21,7 @@ A Laravel Backend developer from Iran
 ## 🚀 About Me
 I'm a backend developer...
 
-I use php and laravel,
+I use php and laravel
 I also develop js and vue as my front tools
 
 
