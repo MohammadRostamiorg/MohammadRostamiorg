@@ -15,8 +15,6 @@
 A Laravel Backend developer from Iran
 
 
-![Logo](https://avatars.githubusercontent.com/u/80725665?v=4)
-
 ## 🚀 About Me
 I'm a backend developer...
 
